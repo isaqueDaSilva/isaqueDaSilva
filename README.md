@@ -9,6 +9,8 @@ My name is Isaque, and I'm 18 years old. I'm currently studying iOS Development 
 ## Technologies that I learn and use in my daily life:
 ![Swift-Logo](https://github.com/isaqueDaSilva/isaqueDaSilva/assets/122185792/41767f00-9373-4029-a779-c7d91b7305ff)
 
+## Social Media:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_zaquin)
 <!--
 **isaqueDaSilva/isaqueDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
