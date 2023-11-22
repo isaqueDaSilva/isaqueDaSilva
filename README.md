@@ -1,6 +1,6 @@
 # Hi there and welcome to my profile 👋
 
-My name is Isaque, and I'm 18 years old. I'm currently studying iOS Development through 100 Days of Swift at Hacking with Swift. I intend to enroll in the Computer Science course next year. I'm passionate about technology and I love to learn new things, in addition to everything I do I put the maximum of my effort.
+My name is Isaque and I am 18 years old. I'm passionate about technology and everything that involves it, especially programming with Swift, which over time has become my favorite language, due to its simplicity and its power to create an application. I recently graduated from the 100 Days of SwiftUI marathon, where I developed a lot in iOS development, with Swift and SwiftUI, but I don't intend to stop here, and my next goal to achieve is to study Computer Science.
 
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
 
