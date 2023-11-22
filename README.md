@@ -1,6 +1,6 @@
 # Hi there and welcome to my profile 👋
 
-My name is Isaque and I am 18 years old. I'm passionate about technology and everything that involves it, especially programming with Swift, which over time has become my favorite language, due to its simplicity and its power to create an application. I recently graduated from the 100 Days of SwiftUI marathon, where I developed a lot in iOS development, with Swift and SwiftUI, but I don't intend to stop here, and my next goal to achieve is to study Computer Science.
+My name is Isaque and I'm 18 years old. I am passionate about technology and everything that involves it. Programming with Swift is what excites me most, as it is a language that has strong readability due to its simplicity of writing, but offers tremendous power to any application we can develop using it. I recently graduated from the 100 Days of SwiftUI marathon, where I learned a lot about iOS development, with Swift and SwiftUI, but I don't intend to stop here, and my next goal to achieve is to study Computer Science.
 
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
 
