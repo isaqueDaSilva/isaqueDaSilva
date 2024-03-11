@@ -1,14 +1,27 @@
-# Hi there and welcome to my profile 👋
+# Hi there 👋
 
-My name is Isaque and I'm 18 years old. I am passionate about technology and everything that involves it. Programming with Swift is what excites me most, as it is a language that has strong readability due to its simplicity of writing, but offers tremendous power to any application we can develop using it. I recently graduated from the 100 Days of SwiftUI marathon, where I learned a lot about iOS development, with Swift and SwiftUI, but I don't intend to stop here, and my next goal to achieve is to study Computer Science.
+My name is Isaque, I'm 19 years old and I'm passionate about technology and everything that involves it. 
 
+I'm currently actively working on an iOS project, made entirely using SwiftUI and Core Data, and it's called Bookworm, an App designed to provide users with a convenient way to annotate and review books they read.
+To see more about the project, see the [Bookworm repository](https://github.com/isaqueDaSilva/Bookworm)
+
+Things that I do in my daily life:
+* Programming and creating amazing natively iOS apps with Swift and SwiftUI.
+* Keep on learning new things.
+
+## My stats
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
 
-## Technologies that I learn and use in my daily life:
-![Swift-Logo](https://github.com/isaqueDaSilva/isaqueDaSilva/assets/122185792/41767f00-9373-4029-a779-c7d91b7305ff)
+## Current Technical Skills:
+[![Swift](https://skillicons.dev/icons?i=swift)](https://www.swift.org)
 
-## Social Media:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_zaquin)
+## Find me here:
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/dev_zaquin?s=21)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isaque-da-silva-b5870329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+> Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something wonderful, that's what matters to me.
+> 
+**Thank you for stopping by!**
 <!--
 **isaqueDaSilva/isaqueDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
