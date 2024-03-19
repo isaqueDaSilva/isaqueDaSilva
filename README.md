@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Isaque, I'm 19 years old and I'm passionate about technology and everything that involves it. 
+My name is Isaque, I'm 19 years old and I'm passionate about technology and everything that involves it, especially App Development.
 
 I'm currently actively working on an iOS project, made entirely using SwiftUI and Core Data, and it's called Bookworm, an App designed to provide users with a convenient way to annotate and review books they read.
 To see more about the project, visit the [Bookworm repository](https://github.com/isaqueDaSilva/Bookworm)
