@@ -5,9 +5,11 @@ My name is Isaque, I'm 19 years old and I'm passionate about technology and ever
 I'm currently actively working on an iOS project, made entirely using SwiftUI and Core Data, and it's called Bookworm, an App designed to provide users with a convenient way to annotate and review books they read.
 To see more about the project, visit the [Bookworm repository](https://github.com/isaqueDaSilva/Bookworm)
 
-Things that I do in my daily life:
+**Things that I do in my daily life:**
 * Programming and creating amazing natively iOS apps with Swift and SwiftUI.
 * Keep on learning new things.
+
+See my [portifolio](https://github.com/isaqueDaSilva/Portifolio) for more informations.
 
 ## My stats
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
