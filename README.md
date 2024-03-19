@@ -9,8 +9,6 @@ To see more about the project, visit the [Bookworm repository](https://github.co
 * Programming and creating amazing natively iOS apps with Swift and SwiftUI.
 * Keep on learning new things.
 
-See my [portifolio](https://github.com/isaqueDaSilva/Portifolio) for more informations.
-
 ## My stats
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
 
