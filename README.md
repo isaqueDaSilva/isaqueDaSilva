@@ -2,8 +2,8 @@
 
 My name is Isaque, I'm 19 years old and I'm passionate about technology and everything that involves it, especially App Development.
 
-I'm currently actively working on an iOS project, made entirely using SwiftUI and Core Data, and it's called Bookworm, an App designed to provide users with a convenient way to annotate and review books they read.
-To see more about the project, visit the [Bookworm repository](https://github.com/isaqueDaSilva/Bookworm).
+I'm currently actively working on an update for my iOS Project that's I builded in 100 Days os SwiftUI, called Hot Prospect. Hot Prospect is an App to helps users to track who his meet at conferences. Originaly, this project used a thrird-party code for QR Code Scanner, and now, I'm make my own, and aditionally I'm build a custom API using Vapor Framework, for suports Logins, and notify users when a new user connect with you using a QR Code.
+To see more about the project, visit the [Hot Prospect repository](https://github.com/isaqueDaSilva/HotProspect).
 
 **Things that I do in my daily life:**
 * Programming and creating amazing natively iOS apps with Swift and SwiftUI.
