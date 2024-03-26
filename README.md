@@ -4,7 +4,7 @@ My name is Isaque, I'm 19 years old and I'm passionate about technology and ever
 
 I'm currently actively working in a personal project, called Connected Conference. This is an app that helps users find and remember of an conference sessions in a simplified way. For provides all this powerful features, this App uses powerfuls tecnologies, like SwiftUI, an essential part for makes a really simple and intuitive UI, and Core Data for persist datas gives of the sever like cache, and provides a limited read offline experience for users.
 
-To see more about the project, visit the [Connected Conference repository]([https://github.com/isaqueDaSilva/HotProspects](https://github.com/isaqueDaSilva/Connected-Conference)).
+To see more about the project, visit the [Connected Conference repository](https://github.com/isaqueDaSilva/Connected-Conference).
 
 # Things that I do in my daily life
 * Programming and creating amazing natively iOS apps with Swift and SwiftUI.
