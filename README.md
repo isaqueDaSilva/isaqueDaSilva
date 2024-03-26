@@ -2,7 +2,7 @@
 
 My name is Isaque, I'm 19 years old and I'm passionate about technology and everything that involves it, especially App Development.
 
-I'm currently actively working on an update for my iOS Project that's I builded in 100 Days of SwiftUI, called Hot Prospect. Hot Prospect is an App to helps users to track who his meet at conferences. Originaly, this project used a thrird-party code for QR Code Scanner, and now, I'm make my own, and aditionally I'm build a custom API using Vapor Framework, to support logins, and notify users when a new user connect with them using a QR Code.
+I'm currently actively working in a personal project, called Connected Conference. This is an app that helps users find and remember of an conference sessions in a simplified way. For provides all this powerful features, this App uses powerfuls tecnologies, like SwiftUI, an essential part for makes a really simple and intuitive UI, and Core Data for persist datas gives of the sever like cache, and provides a limited read offline experience for users.
 To see more about the project, visit the [Hot Prospect repository](https://github.com/isaqueDaSilva/HotProspects).
 
 # Things that I do in my daily life
