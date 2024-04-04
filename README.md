@@ -2,9 +2,9 @@
 
 My name is Isaque, I'm 19 years old and I'm passionate about technology and everything that involves it, especially App Development.
 
-I'm currently actively working in a personal project, called Connected Conference. This is an app that helps users find and remember of an conference sessions in a simplified way. For provides all this powerful features, this App uses powerfuls tecnologies, like SwiftUI, an essential part for makes a really simple and intuitive UI, and Core Data for persist datas gives of the sever like cache, and provides a limited read offline experience for users.
+I'm currently actively working on a personal project called Cupcake Corner. This is an application that simulates a delivery app, where the user is shown a menu of Cupcakes available for ordering, and from there the user can place their orders. It is built entirely using Swift and SwiftUI, with integration into a custom RESTful API, which provides us with several features such as updated menu display, informs the system when a user makes a request, and returns a response to the user when Your order is ready to be delivered and thanks to a super important feature, which is user authentication in the system.
 
-To see more about the project, visit the [Connected Conference repository](https://github.com/isaqueDaSilva/Connected-Conference).
+To learn more about the project, visit the [Cupcake Corner repository.](https://github.com/isaqueDaSilva/CupcakeCorner)
 
 # Things that I do in my daily life
 * Programming and creating amazing natively iOS apps with Swift and SwiftUI.
