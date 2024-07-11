@@ -2,9 +2,9 @@
 
 My name is Isaque, I'm 19 years old and I'm passionate about technology and everything that involves it, especially App Development.
 
-I'm currently actively working on a personal project called Cupcake Corner. This is an App that simulates a delivery app, where the user is shown a menu of Cupcakes available for ordering, and from there the user can place their orders. It is built entirely using Swift and SwiftUI, with integration into a custom RESTful API, which provides us with several features like the updated Menu, sends a notification to the system when the user completes an order, and returns a response to the user when your order is ready to be delivered and alloways the user authentication in the system.
+I'm currently actively working on a personal project called Cupcake Corner. This is an App that simulates a delivery app, where the user is shown a menu of Cupcakes available for ordering, and from there the user can place their orders. It is built entirely using Swift and SwiftUI, with integration into a custom RESTful API, which provides us with several features like the updated Menu, sends a notification to the admins when the user makes an order, or noticates the users when the order is ready, and alloways the user authentication in the system.
 
-To learn more about the project, visit the [Cupcake Corner repository.](https://github.com/isaqueDaSilva/CupcakeCorner)
+To see more about the project, visit the [Cupcake Corner repository.](https://github.com/isaqueDaSilva/CupcakeCorner)
 
 # Things that I do in my daily life
 * Programming and creating amazing natively iOS apps with Swift and SwiftUI.
