@@ -1,14 +1,14 @@
-# Hi there 👋
+# Hey everybody 👋
 
-My name is Isaque, I'm 19 years old and I'm passionate about technology and everything that involves it, especially App Development.
+My name is Isaque, I'm 19 years old and I'm passionate about technology and everything that involves it, especially App Development, which I believe that's the mainstream for enriches and simplify people's lives.
 
-I'm currently actively working on a personal project called Cupcake Corner. This is an App that simulates a delivery app, where the user is shown a menu of Cupcakes available for ordering, and from there the user can place their orders. It is built entirely using Swift and SwiftUI, with integration into a custom RESTful API, which provides us with several features like the updated Menu, sends a notification to the admins when the user makes an order, or noticates the users when the order is ready, and alloways the user authentication in the system.
+My main skill is in development of Apps for iOS platform using Swift and SwiftUI, where I have many projects finished with succeed, and others that’s coming soon. One of this projects, that I want to talk is the [Cupcake Corner](https://github.com/isaqueDaSilva/CupcakeCorner), that’s by far my most complex and ambitious app that I build until now, and I'm very proud to have built it, because I was capable to learn and put several things inside it that's turn fundamental for any app today, like RESTful API integration, Real-Time data, User Authentication and more.
 
-To see more about the project, visit the [Cupcake Corner repository.](https://github.com/isaqueDaSilva/CupcakeCorner)
+Further, I am also focusing on adding even more knowledge to my skills list, like Machine Learning and AI, where I have plans to integrate some amazing features into my future public app.
 
 # Things that I do in my daily life
-* Programming and creating amazing natively iOS apps with Swift and SwiftUI.
-* Keep on learning new things.
+* Creating and maintain natively iOS apps with Swift and SwiftUI;
+* Machine Learning and AI;
 
 ## My stats
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
