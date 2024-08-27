@@ -1,14 +1,15 @@
 # Hey everybody 👋
 
-My name is Isaque, I'm 19 years old and I'm passionate about technology and everything that involves it, especially App Development, which I believe that's the mainstream for enriches and simplify people's lives.
+My name is Isaque, I'm 19 years and I'm iOS developer with a passion for creating intuitive and easy-use app experiences. My expertise lies in iOS app development using Swift and SwiftUI. Even further, I have a solid understanding of key iOS frameworks and techniques such as Core Data, SwiftData, XCTest, RESTful API integration, MVVM design pattern and more.
 
-My main skill is in development of Apps for iOS platform using Swift and SwiftUI, where I have many projects finished with succeed, and others that’s coming soon. One of this projects, that I want to talk is the [Cupcake Corner](https://github.com/isaqueDaSilva/CupcakeCorner), that’s by far my most complex and ambitious app that I build until now, and I'm very proud to have built it, because I was capable to learn and put several things inside it that's turn fundamental for any app today, like RESTful API integration, Real-Time data, User Authentication and more.
+I'm currently spend my time to improviment my knowledge, by learning and building personal projects, like the [Cupcake Corner](https://github.com/isaqueDaSilva/CupcakeCorner), that's one of my recent projects that I put a lot of those knowledges, like RESTful API integration, real-time data processing, user authentication and more in practice.
 
-Further, I am also focusing on adding even more knowledge to my skills list, like Machine Learning and AI.
+My goal as an iOS developer is to create apps that not only enrich people’s lives but also have the potential to change the world. I’m driven by the challenge of bringing innovative ideas to life and constantly strive to push the boundaries of what’s possible.
 
 # Things that I do in my daily life
-* Creating and maintain natively iOS apps with Swift and SwiftUI;
-* Machine Learning and AI;
+* Learning best practices of iOS development;
+* Improvement myself into app development process;
+* Putting my new knowledge into practice;
 
 ## My stats
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
