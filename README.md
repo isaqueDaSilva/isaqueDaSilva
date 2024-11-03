@@ -1,23 +1,24 @@
-# Hey everybody 👋
+# Hey everybody, I'm Isaque da Silva! 👋
 
-My name is Isaque, I'm 19 years and I'm iOS developer with a passion for creating intuitive and easy-use app experiences. My expertise lies in iOS app development using Swift and SwiftUI. Even further, I have a solid understanding of key iOS frameworks and techniques such as Core Data, SwiftData, XCTest, RESTful API integration, MVVM design pattern and more.
+As a **Software Engineer** specializing in **iOS Development**, I possess expertise in **Swift** and **SwiftUI**. I am particularly interested in the future of AI, which I believe will profoundly impact mobile technology.
 
-I'm currently spend my time to improviment my knowledge, by learning and building personal projects, like the [Cupcake Corner](https://github.com/isaqueDaSilva/CupcakeCorner), that's one of my recent projects that I put a lot of those knowledges, like RESTful API integration, real-time data processing, user authentication and more in practice.
+# 🚀 About Me:
+- 🌱 Currently, I am engaged in studying Machine Learning development and enhancing my knowledge in iOS Development.
+- 💼 I work as a freelance iOS Developer.
 
-My goal as an iOS developer is to create apps that not only enrich people’s lives but also have the potential to change the world. I’m driven by the challenge of bringing innovative ideas to life and constantly strive to push the boundaries of what’s possible.
+# 🛠️ Technology and Tools
+* **Languages:** Swift
+* **Frameworks:** SwiftUI, CoreData, SwiftData, CoreML, Vapor Swift
+* **Tools:** Git, GitHub, Xcode
 
-# Things that I do in my daily life
-* Learning best practices of iOS development;
-* Improvement myself into app development process;
-* Putting my new knowledge into practice;
+# 🌟 Highlight Projects
+- [**Cupcake Corner:**](https://github.com/isaqueDaSilva/CupcakeCorner) - An iOS application designed to facilitate the creation of cupcake orders. It is constructed utilizing Swift, SwiftUI, SwiftData, RESTful API integration, and WebSocket.
+- [**Bookworm:**](https://github.com/isaqueDaSilva/Bookworm.git) - A simple iOS application designed to assist users in registering their thoughts about a book they have read. The application is constructed utilizing Swift, SwiftUI, and CoreData.
 
-## My stats
+## 📈 My stats
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
 
-## Current Technical Skills:
-[![Swift](https://skillicons.dev/icons?i=swift)](https://www.swift.org)
-
-## Find me here:
+## 📫 Let's meeting:
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/dev_zaquin?s=21)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isaque-da-silva-b5870329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
