@@ -8,7 +8,7 @@ As a **Software Engineer** specializing in **iOS Development**, I possess expert
 
 # 🛠️ Technology and Tools
 * **Languages:** Swift
-* **Frameworks:** SwiftUI, CoreData, SwiftData, CoreML, Vapor Swift
+* **Frameworks:** SwiftUI, CoreData, SwiftData, Vapor Swift
 * **Tools:** Git, GitHub, Xcode
 
 # 🌟 Highlight Projects
