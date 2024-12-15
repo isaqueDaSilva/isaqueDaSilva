@@ -20,7 +20,7 @@ As a **Software Engineer** specializing in **iOS Development**, I possess expert
 
 ## 📫 Let's meeting:
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/dev_zaquin?s=21)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/dev-zaquin71)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isaquedasilva)
 
 > Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something wonderful, that's what matters to me. - Steve Jobs
 > 
