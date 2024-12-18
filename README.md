@@ -1,6 +1,6 @@
 # Hey everybody 👋
 
-I'm Isaque Machado and I'm an **iOS Engineer** with passion and dedication into crafting elegant solutions through code. I possess a keen eye for detail, a passion for problem-solving, and a deep appreciation for the process of analyzing a problem, developing a comprehensive solution, and implementing it in a practical and user-friendly manner.
+I'm **Isaque Machado** and I'm an **iOS Engineer** with passion and dedication into crafting elegant solutions through code. I possess a keen eye for detail, a passion for problem-solving, and a deep appreciation for the process of analyzing a problem, developing a comprehensive solution, and implementing it in a practical and user-friendly manner.
 
 # 🎯 Current Focus
 - 🧠 Looking and studying about Machine Learning and AI stuff;
