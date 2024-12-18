@@ -1,19 +1,20 @@
-# Hey everybody, I'm Isaque da Silva! 👋
+# Hey everybody 👋
 
-As a **Software Engineer** specializing in **iOS Development**, I possess expertise in **Swift** and **SwiftUI**. I am particularly interested in the future of AI, which I believe will profoundly impact mobile technology.
+I'm Isaque Machado and I'm an **iOS Engineer** with passion and dedication into crafting elegant solutions through code. I possess a keen eye for detail, a passion for problem-solving, and a deep appreciation for the process of analyzing a problem, developing a comprehensive solution, and implementing it in a practical and user-friendly manner.
 
-# 🚀 About Me:
-- 🌱 Currently, I am engaged in studying Machine Learning development and enhancing my knowledge in iOS Development.
-- 💼 I work as a freelance iOS Developer.
+# 🎯 Current Focus
+- 🧠 Looking and studying about Machine Learning and AI stuff;
+- 📲 Enhancing my knowledge in iOS Development, by making my own personal projects.
+- 💼 Open to work as a freelancer or long term job at iOS Developer position.
 
 # 🛠️ Technology and Tools
 * **Languages:** Swift
-* **Frameworks:** SwiftUI, CoreData, SwiftData, Vapor Swift
+* **Frameworks:** SwiftUI, CoreData, SwiftData, Swift Charts, MapKit
 * **Tools:** Git, GitHub, Xcode
 
 # 🌟 Highlight Projects
-- [**Cupcake Corner:**](https://github.com/isaqueDaSilva/CupcakeCorner) - An iOS application designed to facilitate the creation of cupcake orders. It is constructed utilizing Swift, SwiftUI, SwiftData, RESTful API integration, and WebSocket.
-- [**Bookworm:**](https://github.com/isaqueDaSilva/Bookworm.git) - A simple iOS application designed to assist users in registering their thoughts about a book they have read. The application is constructed utilizing Swift, SwiftUI, and CoreData.
+- [**Cupcake Corner:**](https://github.com/isaqueDaSilva/CupcakeCorner) - Is a sophisticated e-commerce iOS application that brings the delightful world of cupcakes to your mobile device. This comprehensive platform offers both client and administrative interfaces, creating a seamless experience for customers and business owners alike.
+- [**Bookworm:**](https://github.com/isaqueDaSilva/Bookworm.git) - is an elegant iOS application designed for book enthusiasts who want to maintain a digital record of their reading journey. This app serves as a personal reading companion, allowing users to create detailed book entries, track their reading progress, and capture their thoughts and reflections.
 
 ## 📈 My stats
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
@@ -21,6 +22,7 @@ As a **Software Engineer** specializing in **iOS Development**, I possess expert
 ## 📫 Let's meeting:
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/dev_zaquin?s=21)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isaquedasilva)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:isaqued@icloud.com)
 
 > Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something wonderful, that's what matters to me. - Steve Jobs
 > 
