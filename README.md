@@ -24,6 +24,10 @@ I'm Isaque Machado and I'm an **iOS Engineer** with passion and dedication into 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isaquedasilva)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:isaqued@icloud.com)
 
+*Feels free to contact me if you are interested in getting my services or just to talk about tech!*
+
+---
+
 > Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something wonderful, that's what matters to me. - Steve Jobs
 > 
 **Thank you for stopping by!**
