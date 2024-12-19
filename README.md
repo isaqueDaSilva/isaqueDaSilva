@@ -18,8 +18,8 @@ I’m **Isaque Machado**, an **iOS Engineer** passionate about crafting elegant 
 - **Other**: Swift Charts, Swift Concurrency
 
 # 🌟 Highlight Projects:
-- [**Cupcake Corner:**](https://github.com/isaqueDaSilva/CupcakeCorner) - Is a sophisticated e-commerce iOS application that brings the delightful world of cupcakes to your mobile device. This comprehensive platform offers both client and administrative interfaces, creating a seamless experience for customers and business owners alike.
-- [**Bookworm:**](https://github.com/isaqueDaSilva/Bookworm.git) - is an elegant iOS application designed for book enthusiasts who want to maintain a digital record of their reading journey. This app serves as a personal reading companion, allowing users to create detailed book entries, track their reading progress, and capture their thoughts and reflections.
+- [**Cupcake Corner**](https://github.com/isaqueDaSilva/CupcakeCorner) - Is a sophisticated e-commerce iOS application that brings the delightful world of cupcakes to your mobile device. This comprehensive platform offers both client and administrative interfaces, creating a seamless experience for customers and business owners alike.
+- [**Bookworm**](https://github.com/isaqueDaSilva/Bookworm.git) - is an elegant iOS application designed for book enthusiasts who want to maintain a digital record of their reading journey. This app serves as a personal reading companion, allowing users to create detailed book entries, track their reading progress, and capture their thoughts and reflections.
 
 ## 📈 My stats:
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
