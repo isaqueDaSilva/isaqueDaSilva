@@ -10,7 +10,6 @@ I’m **Isaque Machado**, an **iOS Engineer** passionate about crafting elegant 
 # 📚 Currently Learning  
 - Advanced Swift and SwiftUI concepts  
 - UIKit
-- Machine Learning
 
 # 🛠️ Tech Stack  
 - **Languages**: Swift  
