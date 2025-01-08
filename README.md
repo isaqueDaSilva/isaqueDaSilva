@@ -1,6 +1,6 @@
 # Hey everybody 👋
 
-I’m **Isaque Machado**, an **iOS Engineer** passionate about crafting elegant and efficient solutions through code. With a keen eye for detail and a love for problem-solving, I thrive on analyzing challenges, designing robust solutions, and delivering user-friendly experiences that make a difference. <br>
+My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in **iOS Development**. I'm passionate about crafting elegant and efficient solutions through code, with a keen eye for detail and a love for problem-solving, I thrive on analyzing challenges, designing robust and efficient solutions, and delivering user-friendly experiences that make a difference. <br>
 
 # 🎯 Current Focus:
 - 🧠 Continuously enhancing my expertise in iOS development.
@@ -8,8 +8,8 @@ I’m **Isaque Machado**, an **iOS Engineer** passionate about crafting elegant 
 - 📍 Expanding my knowledge to others places.
 
 # 📚 Currently Learning  
-- Advanced Swift and SwiftUI concepts  
-- UIKit
+- Advanced Swift concepts and C++ 
+- Advanced concepts of SwiftUI and UIKit
 
 # 🛠️ Tech Stack  
 - **Languages**: Swift  
