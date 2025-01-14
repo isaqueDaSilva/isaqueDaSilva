@@ -8,8 +8,9 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in 
 - 📍 Expanding my knowledge to others places.
 
 # 📚 Currently Learning  
-- Advanced Swift concepts and C++ 
-- Advanced concepts of SwiftUI and UIKit
+- Advanced Swift concepts
+- Data Structure and Algorithms 
+- Advanced concepts of SwiftUI
 
 # 🛠️ Tech Stack  
 - **Languages**: Swift  
