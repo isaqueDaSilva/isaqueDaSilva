@@ -3,14 +3,15 @@
 My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in **iOS Development**. I'm passionate about crafting elegant and efficient solutions through code, with a keen eye for detail and a love for problem-solving, I thrive on analyzing challenges, designing robust and efficient solutions, and delivering user-friendly experiences that make a difference. <br>
 
 # 🎯 Current Focus:
-- 🧠 Continuously enhancing my expertise in iOS development.
-- 📲 Applying my knowledge to my own personal projects and those of other people as well.
-- 📍 Expanding my knowledge to others places.
+- 📲 Building a X app clone.
+- 📝 Starting to write some articles about what I've built for Medium.
+- 📍 Starting to expand my knowledge of backend.
 
 # 📚 Currently Learning  
-- Advanced Swift concepts
-- Data Structure and Algorithms 
-- Advanced concepts of SwiftUI
+- Advanced Swift concepts.
+- Data Structure and Algorithms.
+- Advanced concepts of SwiftUI.
+- Backend concepts.
 
 # 🛠️ Tech Stack  
 - **Languages**: Swift  
@@ -18,9 +19,6 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in 
   - SwiftUI
   - SwiftData
   - Core Data
-  - Swift Charts
-  - Combine
-  - Swift Concurrency
   - XCTest
   - Swift Testing
 - **Tools**:
@@ -31,7 +29,6 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in 
 - **Adopted Practices**: Clean Code
 
 # 🌟 Highlight Projects:
-- [**Cupcake Corner**](https://github.com/isaqueDaSilva/CupcakeCorner) - Is a sophisticated e-commerce iOS application that brings the delightful world of cupcakes to your mobile device. This comprehensive platform offers both client and administrative interfaces, creating a seamless experience for customers and business owners alike. <br>
 - [**Bookworm**](https://github.com/isaqueDaSilva/Bookworm.git) - is an elegant iOS application designed for book enthusiasts who want to maintain a digital record of their reading journey. This app serves as a personal reading companion, allowing users to create detailed book entries, track their reading progress, and capture their thoughts and reflections. <br>
 
 ## 📈 My stats:
