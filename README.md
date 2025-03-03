@@ -3,13 +3,11 @@
 My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in **iOS Development**. I'm passionate about crafting elegant and efficient solutions through code, with a keen eye for detail and a love for problem-solving, I thrive on analyzing challenges, designing robust and efficient solutions, and delivering user-friendly experiences that make a difference. <br>
 
 # 🎯 Current Focus:
-- 📲 Building a X app clone.
+- 📲 Building a WhatsApp clone.
 - 📝 Starting to write some articles about what I've built for Medium.
-- 📍 Starting to expand my knowledge of backend.
 
 # 📚 Currently Learning  
 - Advanced Swift concepts.
-- Data Structure and Algorithms.
 - Advanced concepts of SwiftUI.
 - Backend concepts.
 
@@ -25,11 +23,15 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in 
   -  Xcode
   -  Git
   -  GitHub
-- **Services Integration**: RESTful API  
+- **Services Integration**:
+  - RESTful API
+  - Backend Services   
 - **Adopted Practices**: Clean Code
 
 # 🌟 Highlight Projects:
-- [**Bookworm**](https://github.com/isaqueDaSilva/Bookworm.git) - is an elegant iOS application designed for book enthusiasts who want to maintain a digital record of their reading journey. This app serves as a personal reading companion, allowing users to create detailed book entries, track their reading progress, and capture their thoughts and reflections. <br>
+- [**S - Social Media**](https://github.com/isaqueDaSilva/S-SocialMedia.git) - A simple and intuitive real-time chat application, designed for enhance communication with people.<br>
+- [**Scrumdinger**](https://github.com/isaqueDaSilva/Scrumdinger.git) - A simple and intuitive app that help teams to organize and perform your daily scrums more easy, with a option to capture and transcript what was said the meeting.
+- [**Travel**](https://github.com/isaqueDaSilva/Travel.git) - A simple ride app, that help users to get your next car ride.
 
 ## 📈 My stats:
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
