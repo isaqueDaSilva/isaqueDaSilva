@@ -2,14 +2,10 @@
 
 My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in **iOS Development**. I'm passionate about crafting elegant and efficient solutions through code, with a keen eye for detail and a love for problem-solving, I thrive on analyzing challenges, designing robust and efficient solutions, and delivering user-friendly experiences that make a difference. <br>
 
-# 🎯 Current Focus:
-- 📲 Building a WhatsApp clone.
-- 📝 Starting to write some articles about what I've built for Medium.
-
-# 📚 Currently Learning  
-- Advanced Swift concepts.
-- Advanced concepts of SwiftUI.
-- Backend concepts.
+# 🎯 Current Focus and Learning:
+- 🥞 Improve my skills in data structure and algorithms
+- 🧠 Improve my skills in how architecture even better my apps and improve the overall performance.
+- 🔑 Learning about security in apps
 
 # 🛠️ Tech Stack  
 - **Languages**: Swift  
@@ -29,9 +25,9 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in 
 - **Adopted Practices**: Clean Code
 
 # 🌟 Highlight Projects:
-- [**S - Social Media**](https://github.com/isaqueDaSilva/S-SocialMedia.git) - A simple and intuitive real-time chat application, designed for enhance communication with people.<br>
-- [**Scrumdinger**](https://github.com/isaqueDaSilva/Scrumdinger.git) - A simple and intuitive app that help teams to organize and perform your daily scrums more easy, with a option to capture and transcript what was said the meeting.
-- [**Travel**](https://github.com/isaqueDaSilva/Travel.git) - A simple ride app, that help users to get your next car ride.
+- [**Cupcake Corner**](https://github.com/isaqueDaSilva/Cupcake-Corner.git) - An ergonomic application that make easy to manage all flow of a Cupcake store. <br>
+- [**NetworkKit**](https://github.com/isaqueDaSilva/NetworkKit.git) - A lightweight package that wrapped some core features for handle easy with the most commons network tasks on Apple platform.
+- [**ErrorWrapper**](https://github.com/isaqueDaSilva/ErrorWrapper.git) - A lightweight and reusable library designed to handle errors gracefully within SwiftUI views.
 
 ## 📈 My stats:
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
