@@ -20,8 +20,7 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in 
   -  Git
   -  GitHub
 - **Services Integration**:
-  - RESTful API
-  - Backend Services   
+  - RESTful API   
 - **Adopted Practices**: Clean Code
 
 # 🌟 Highlight Projects:
