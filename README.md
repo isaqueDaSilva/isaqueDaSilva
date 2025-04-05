@@ -1,11 +1,12 @@
 # Hey everybody 👋
 
-My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in **iOS Development**. I'm passionate about crafting elegant and efficient solutions through code, with a keen eye for detail and a love for problem-solving, I thrive on analyzing challenges, designing robust and efficient solutions, and delivering user-friendly experiences that make a difference. <br>
+My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in **iOS Development** and interested in **backend** as well. I'm passionate about crafting elegant and efficient solutions through code, with a keen eye for detail and a love for problem-solving, I thrive on analyzing challenges, designing robust and efficient solutions, and delivering user-friendly experiences that make a difference.<br>
 
 # 🎯 Current Focus and Learning:
 - 🥞 Improve my skills in data structure and algorithms
 - 🧠 Improve my skills in how architecture even better my apps and improve the overall performance.
 - 🔑 Learning about security in apps
+- 🚀 Continues to explore the backend world.
 
 # 🛠️ Tech Stack  
 - **Languages**: Swift  
@@ -15,6 +16,7 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in 
   - Core Data
   - XCTest
   - Swift Testing
+  - Vapor
 - **Tools**:
   -  Xcode
   -  Git
