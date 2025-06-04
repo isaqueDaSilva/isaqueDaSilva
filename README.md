@@ -6,7 +6,7 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in 
 - 🥞 Improve my skills in data structure and algorithms
 - 🧠 Improve my skills in how architecture even better my apps and improve the overall performance.
 - 🔑 Learning about security in apps
-- 🚀 Continues to explore the backend world.
+- 🚀 Building a clone of the core features of X(formerly Twitter) with focus in performance, security and experience of the plataform.
 
 # 🛠️ Tech Stack  
 - **Languages**: Swift  
