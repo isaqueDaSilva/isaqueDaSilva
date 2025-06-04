@@ -27,7 +27,8 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in 
 
 # 🌟 Highlight Projects:
 - [**Cupcake Corner**](https://github.com/isaqueDaSilva/Cupcake-Corner.git) - An ergonomic application that make easy to manage all flow of a Cupcake store. <br>
-- [**NetworkKit**](https://github.com/isaqueDaSilva/NetworkKit.git) - A lightweight package that wrapped some core features for handle easy with the most commons network tasks on Apple platform.
+- [**Cupcake Corner API**](https://github.com/isaqueDaSilva/CupcakeCornerAPI.git) - A RESTful application responsible to mediates the communication between the client application and the database. <br>
+- [**SwiftterAPI**](https://github.com/isaqueDaSilva/NetworkKit.git) - A X-Like RESTful API, with the most important features of X.  (__*In Development*__) <br>
 - [**ErrorWrapper**](https://github.com/isaqueDaSilva/ErrorWrapper.git) - A lightweight and reusable library designed to handle errors gracefully within SwiftUI views.
 
 ## 📈 My stats:
