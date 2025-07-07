@@ -5,8 +5,6 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in 
 # 🎯 Current Focus and Learning:
 - 🥞 Improve my skills in data structure and algorithms
 - 🧠 Improve my skills in how architecture even better my apps and improve the overall performance.
-- 🔑 Learning about security in apps
-- 🚀 Building a clone of the core features of X(formerly Twitter) with focus in performance, security and experience of the plataform.
 
 # 🛠️ Tech Stack  
 - **Languages**: Swift  
@@ -22,8 +20,7 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in 
   -  Git
   -  GitHub
 - **Services Integration**:
-  - RESTful API   
-- **Adopted Practices**: Clean Code
+  - RESTful API
 
 # 🌟 Highlight Projects:
 - [**Cupcake Corner**](https://github.com/isaqueDaSilva/Cupcake-Corner.git) - An ergonomic application that make easy to manage all flow of a Cupcake store. <br>
