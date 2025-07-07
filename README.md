@@ -23,10 +23,9 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in 
   - RESTful API
 
 # 🌟 Highlight Projects:
-- [**Cupcake Corner**](https://github.com/isaqueDaSilva/Cupcake-Corner.git) - An ergonomic application that make easy to manage all flow of a Cupcake store. <br>
-- [**Cupcake Corner API**](https://github.com/isaqueDaSilva/CupcakeCornerAPI.git) - A RESTful application responsible to mediates the communication between the client application and the database. <br>
-- [**SwiftterAPI**](https://github.com/isaqueDaSilva/NetworkKit.git) - A X-Like RESTful API, with the most important features of X.  (__*In Development*__) <br>
-- [**ErrorWrapper**](https://github.com/isaqueDaSilva/ErrorWrapper.git) - A lightweight and reusable library designed to handle errors gracefully within SwiftUI views.
+- [**Cupcake Corner**](https://github.com/isaqueDaSilva/Cupcake-Corner.git) - A project focused on scale up my skills in asynchronous programming, lead with display efficiently large data sets and real-time data to user, authentication, cache, local storage, keep sensitive data stored on secure storange and more complex interface. <br>
+- [**Cupcake Corner API**](https://github.com/isaqueDaSilva/CupcakeCornerAPI.git) - A project focused on lerning about concepts of creating backend systems, like HTTP communication, authentication and databases. <br>
+- [**Travel**](https://github.com/isaqueDaSilva/Travel.git) - A project focused into asynchronous programming and testability <br>
 
 ## 📈 My stats:
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
