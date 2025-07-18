@@ -5,6 +5,7 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in 
 # 🎯 Current Focus and Learning:
 - 🥞 Improve my skills in data structure and algorithms
 - 🧠 Improve my skills in how architecture even better my apps and improve the overall performance.
+- 📲 Learing the basic of UIKit.
 
 # 🛠️ Tech Stack  
 - **Languages**: Swift  
