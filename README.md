@@ -1,38 +1,37 @@
 # Hey everybody 👋
 
-My name is **Isaque Machado**, and I'm a **Software Engineeer**, specialized in **iOS Development** and interested in **backend** as well. I'm passionate about crafting elegant and efficient solutions through code, with a keen eye for detail and a love for problem-solving, I thrive on analyzing challenges, designing robust and efficient solutions, and delivering user-friendly experiences that make a difference.<br>
-
-# 🎯 Current Focus and Learning:
-- 🥞 Improve my skills in data structure and algorithms
-- 🧠 Improve my skills in how architecture even better my apps and improve the overall performance.
-- 📲 Learing the basic of UIKit.
+My name is **Isaque Machado**, and I'm a **Software Engineeer**, with proficiency in **iOS Development** and aspirant in **Backend Development**, passionate about solving problems using logical reasoning to delivery reliable and high-performance solutions through code that make a difference.<br>
 
 # 🛠️ Tech Stack  
-- **Languages**: Swift  
+- **Languages**:
+  - Swift (Proficient)
+  - TypeScript (Basic) 
 - **Frameworks**:
-  - SwiftUI
-  - SwiftData
-  - Core Data
-  - XCTest
-  - Swift Testing
-  - Vapor
+  - **_iOS_**: SwiftUI, SwiftData, Core Data, XCTest, Swift Testing (Proficient)
+  - **_Backend_**:Node.js (Basic); Vapor(Proficient);
+- **Database**:
+  - PostgresSQL (Basic)
 - **Tools**:
   -  Xcode
+  -  VS Code
   -  Git
   -  GitHub
 - **Services Integration**:
   - RESTful API
+
+# 🎯 Continuous Learning:
+[![roadmap.sh](https://roadmap.sh/card/tall/677e170370129741a82a4f91?variant=dark)](https://roadmap.sh)
+
+## 📈 My stats:
+![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
 
 # 🌟 Highlight Projects:
 - [**Cupcake Corner**](https://github.com/isaqueDaSilva/Cupcake-Corner.git) - A project focused on scale up my skills in Swift, SwiftUI, asynchronous programming, lead with display efficiently large data sets and real-time data to user, authentication, cache, local storage, keep sensitive data stored on secure storage, software architecture and more complex interface. <br>
 - [**Cupcake Corner API**](https://github.com/isaqueDaSilva/CupcakeCornerAPI.git) - A project focused on lerning about concepts of creating backend systems, like HTTP communication, authentication and databases. <br>
 - [**Travel**](https://github.com/isaqueDaSilva/Travel.git) - A project focused into asynchronous programming and testability <br>
 
-## 📈 My stats:
-![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
-
 ## 🚀 Open to Work:
-I’m currently open to **freelance opportunities**, **collaborations**, or **full-time positions** in iOS development. If you’re looking for someone to build clean, efficient, and user-focused iOS applications, feel free to reach out! <br>
+I’m currently open to **freelance opportunities**, **collaborations**, or **full-time positions** in iOS or Backend development. If you’re looking for someone to build clean, efficient, reliable, usable and high-performance solutions, feel free to reach out! <br>
 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:isaqued@icloud.com)
 
