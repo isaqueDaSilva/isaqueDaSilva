@@ -8,7 +8,7 @@ My name is **Isaque Machado**, and I'm a **Software Engineeer**, with proficienc
   - TypeScript (Basic) 
 - **Frameworks**:
   - **_iOS_**: SwiftUI, SwiftData, Core Data, XCTest, Swift Testing (Proficient)
-  - **_Backend_**:Node.js (Basic); Vapor(Proficient);
+  - **_Backend_**: Node.js (Basic); Vapor(Proficient);
 - **Database**:
   - PostgresSQL (Basic)
 - **Tools**:
