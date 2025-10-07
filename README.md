@@ -1,23 +1,26 @@
 # Hey everybody 👋
 
-My name is **Isaque Machado**, and I'm a **Software Engineeer**, with proficiency in **iOS Development** and aspirant in **Backend Development**, passionate about solving problems using logical reasoning to delivery reliable and high-performance solutions through code that make a difference.<br>
+Hi! I’m **Isaque Machado**, a Software Developer focused on **iOS** and **Backend Development**. I enjoy exploring how technology works behind the scenes and building projects that help me grow as a developer and solve real-world problems.
 
-# 🛠️ Tech Stack  
-- **Languages**:
-  - Swift (Proficient)
-  - TypeScript (Basic) 
-- **Frameworks**:
-  - **_iOS_**: SwiftUI, SwiftData, Core Data, XCTest, Swift Testing (Proficient)
-  - **_Backend_**: Node.js (Basic); Vapor(Proficient);
-- **Database**:
-  - PostgresSQL (Basic)
-- **Tools**:
-  -  Xcode
-  -  VS Code
-  -  Git
-  -  GitHub
-- **Services Integration**:
-  - RESTful API
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries:**  
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0085CA?style=flat&logo=swift&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Tools & Platforms:**  
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 # 🎯 Continuous Learning:
 [![roadmap.sh](https://roadmap.sh/card/tall/677e170370129741a82a4f91?variant=dark)](https://roadmap.sh)
