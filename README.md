@@ -28,11 +28,6 @@ Hi! I’m **Isaque Machado**, a Software Developer focused on **iOS** and **Back
 ## 📈 My stats:
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
 
-# 🌟 Highlight Projects:
-- [**Cupcake Corner**](https://github.com/isaqueDaSilva/Cupcake-Corner.git) - A project focused on scale up my skills in Swift, SwiftUI, asynchronous programming, lead with display efficiently large data sets and real-time data to user, authentication, cache, local storage, keep sensitive data stored on secure storage, software architecture and more complex interface. <br>
-- [**Cupcake Corner API**](https://github.com/isaqueDaSilva/CupcakeCornerAPI.git) - A project focused on lerning about concepts of creating backend systems, like HTTP communication, authentication and databases. <br>
-- [**Travel**](https://github.com/isaqueDaSilva/Travel.git) - A project focused into asynchronous programming and testability <br>
-
 ## 🚀 Open to Work:
 I’m currently open to **freelance opportunities**, **collaborations**, or **full-time positions** in iOS or Backend development. If you’re looking for someone to build clean, efficient, reliable, usable and high-performance solutions, feel free to reach out! <br>
 
