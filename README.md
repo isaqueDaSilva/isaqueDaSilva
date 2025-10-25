@@ -27,7 +27,12 @@ Hi! I’m **Isaque Machado**, a Software Developer focused on **iOS** and **Back
 [![roadmap.sh](https://roadmap.sh/card/tall/677e170370129741a82a4f91?variant=dark)](https://roadmap.sh)
 
 ## 📈 My stats:
-![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueDaSilva&layout=donut" />
+</a>
 
 ## 🚀 Open to Work:
 I’m currently open to **freelance opportunities**, **collaborations**, or **full-time positions** in iOS or Backend development. If you’re looking for someone to build clean, efficient, reliable, usable and high-performance solutions, feel free to reach out! <br>
