@@ -42,11 +42,8 @@ A simple iOS and macOS recorder app
 
 **✨ Features**
   * Real‑time dBFS visualization during recording and playback
-  * Native recording and playback powered by AVFoundation
-  * Microphone permission handling using AVAudioSession and system prompts
-  * On‑device file storage with FileManager (no database required)
-  * SwiftUI UI for a simple, cohesive experience on iOS and macOS
-  * Cross‑platform targets: iOS 18+ and macOS 15+
+  * Recording and playback
+  * On‑device file storage
 
 🔗 [Go to Repository](https://github.com/isaqueDaSilva/Voice-Memos)
 
