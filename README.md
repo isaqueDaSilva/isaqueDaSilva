@@ -70,7 +70,7 @@ Designed to simplify expense tracking, offering categorization, filtering and se
 
 ---
 
-# 📣 Let's Connect!  
+## 📣 Let's Connect!  
 I'm always excited to collaborate, share knowledge, and contribute to meaningful projects. Feel free to explore my work and following me on my social medias if you'd like to connect!  <br>
 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:isaqued@icloud.com)
