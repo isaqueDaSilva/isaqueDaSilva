@@ -1,49 +1,81 @@
-# Hey everybody 👋
+# 👋 Hey everybody, I'm Isaque Machado
 
-Hi! I’m **Isaque Machado**, a Software Developer focused on **iOS** and **Backend Development**. I enjoy exploring how technology works behind the scenes and building projects that help me grow as a developer and solve real-world problems.
+**Math. Physics. Logic. Code.**
+
+---
+
+## ✨ About Me
+Hello! I'm Isaque Machado, a software developer passionate about creating application-based solutions that solve problems and make a difference in the daily lives of those who use them.
+
+I'm passionate about mathematics and physics, and that's why I always like to incorporate them, whether to use them myself or to base my work on their models, in order to propose something solid and mature enough for its full usefulness in the solution.
+
+Furthermore, I like to always stay updated and informed about new techniques and concepts, with the aim of learning, experimenting, and applying them to my projects.
+
+---
 
 ## 🛠️ Tech Stack
+![Swift](https://skillicons.dev/icons?i=swift)
+![C++](https://skillicons.dev/icons?i=cpp)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 
-**Languages:**  
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries:**  
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0085CA?style=flat&logo=swift&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+---
 
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+## 🚀 My Projects
 
-**Tools & Platforms:**  
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### Image Filter
+A lightweight concept app to apply filters in an image.
 
-# 🎯 Continuous Learning:
-[![roadmap.sh](https://roadmap.sh/card/tall/677e170370129741a82a4f91?variant=dark)](https://roadmap.sh)
+**✨ Features**
+  * Retrieves photos from the user's personal photo library
+  * Displays the original and edited images
+  * Applies and processes filters on the device
+  * Undoes and redoes filters
+  * Saves edited images to the user's personal photo library
 
-## 📈 My stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=isaqueDaSilva&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueDaSilva&layout=donut" />
-</a>
+🔗 [Go to Repository](https://github.com/isaqueDaSilva/Image-Filter)
 
-## 🚀 Open to Work:
-I’m currently open to **freelance opportunities**, **collaborations**, or **full-time positions** in iOS or Backend development. If you’re looking for someone to build clean, efficient, reliable, usable and high-performance solutions, feel free to reach out! <br>
+---
 
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:isaqued@icloud.com)
+### Voice Memos
+A simple iOS and macOS recorder app
+
+**✨ Features**
+  * Real‑time dBFS visualization during recording and playback
+  * Native recording and playback powered by AVFoundation
+  * Microphone permission handling using AVAudioSession and system prompts
+  * On‑device file storage with FileManager (no database required)
+  * SwiftUI UI for a simple, cohesive experience on iOS and macOS
+  * Cross‑platform targets: iOS 18+ and macOS 15+
+
+🔗 [Go to Repository](https://github.com/isaqueDaSilva/Voice-Memos)
+
+---
+
+### Expense Tracker API
+Designed to simplify expense tracking, offering categorization, filtering and secure authentication.
+
+**✨ Features**
+  * Secure authentication with JWT
+  * Token refresh
+  * Route protection
+  * Robust data validation
+  * Complete expense and category CRUD
+  * Expense categorization
+  * Date and category filters
+  * Results pagination
+  * Standard category system
+
+🔗 [Go to Repository](https://github.com/isaqueDaSilva/Expense-Tracker-API.git)
+
+---
 
 # 📣 Let's Connect!  
 I'm always excited to collaborate, share knowledge, and contribute to meaningful projects. Feel free to explore my work and following me on my social medias if you'd like to connect!  <br>
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_zaquin?s=21)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaquedasilva)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:isaqued@icloud.com)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/dev_zaquin?s=21)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isaquedasilva)
 <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://isaquemach.medium.com) -->
 
 > Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something wonderful, that's what matters to me. - Steve Jobs
